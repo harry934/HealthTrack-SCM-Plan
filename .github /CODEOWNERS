@@ -1,0 +1,8 @@
+# The Tech Lead owns the SCM Plan itself 
+README.md       harry934
+ 
+# The Database Team owns all SQL files 
+*.sql           harry934 
+ 
+# The Frontend Team owns all Javascript 
+*.js            harry934 
